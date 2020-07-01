@@ -1,4 +1,7 @@
-   ![](https://avatars1.githubusercontent.com/u/67656055?s=200&v=4)
+![](https://img.shields.io/github/license/Fatec-Insiders/Insiders-forum  )
+![](https://img.shields.io/badge/FATEC-INSIDERS-blue)
+
+![](https://avatars1.githubusercontent.com/u/67656055?s=200&v=4)
 # 🎯 Motivação
 
 A iniciativa **Fatec-Insiders** surgiu com o intuito de discutir, ensinar, praticar e espalhar tudo que a tecnologia pode proporcionar pois temos a consciência que quando estamos num ambiente de interação e desenvolvimento o crescimento individual e coletivo dente a somente aumentar. **SEJA muito BEM-VINDO !!!**
