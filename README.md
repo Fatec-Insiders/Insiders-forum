@@ -4,7 +4,7 @@
 ![](https://avatars1.githubusercontent.com/u/67656055?s=200&v=4)
 # 🎯 Motivação
 
-A iniciativa **Fatec-Insiders** surgiu com o intuito de discutir, ensinar, praticar e espalhar tudo que a tecnologia pode proporcionar pois temos a consciência que quando estamos num ambiente de interação e desenvolvimento o crescimento individual e coletivo dente a somente aumentar. **SEJA muito BEM-VINDO !!!**
+A iniciativa **Fatec-Insiders** surgiu com o intuito de discutir, ensinar, praticar e espalhar tudo que a tecnologia pode proporcionar. **SEJA muito BEM-VINDO !!!**
 
 # 👾 Entre em nossa Comunidade
   [Participe do nosso Discord](https://discord.gg/KcMJ6f)
